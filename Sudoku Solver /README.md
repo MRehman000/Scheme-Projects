@@ -1,0 +1,2 @@
+This is a Sudoku Solver 
+It uses propogation of constraints in order to solve the Sudoku Puzzle. It should be noted that this does not implement searching. Therefore, it only works on Easy and Medium difficulty boards. 
